@@ -26,7 +26,7 @@ const ContentImageData = [
         content:
             "Inter Transporte Leipzig bietet Montagedienstleistungen für Haushaltsmöbel an. Ob es sich um neu gelieferte Möbel handelt oder um das Abbauen und Zusammenbauen von vorhandenen Möbeln in Ihrem Zuhause, das Expertenteam montiert die Möbel präzise und professionell, um einen sicheren und komfortablen Gebrauch für die Kunden zu gewährleisten.",
         align: "right",
-        image: "/panner1.jpg"
+        image: "/panner6.jpg"
     },
     {
         id: uuid(),
@@ -34,40 +34,9 @@ const ContentImageData = [
         content:
             "Das Unternehmen bietet Dienstleistungen zur Auflösung von Haushalten an, wenn eine vollständige Räumung erforderlich ist. Ob aufgrund eines Umzugs, einer Renovierung oder aus anderen Gründen, das Team von Inter Transporte Leipzig kümmert sich professionell um das Abbauen und Reinigen der Wohnungen. Der Umgang mit Eigentum und Möbeln erfolgt sorgfältig, und überschüssige Materialien werden ordnungsgemäß gemäß den Umweltstandards entsorgt.",
         align: "left",
-        image: "/panner3.jpg"
+        image: "/panner5.jpg"
     }
-    // {
-    //     id: uuid(),
-    //     title: "Umzugservice",
-    //     content:
-    //         "Say goodbye to meal planning stress! With NutriTrack, planning your meals becomes a breeze. Our user-friendly Notion template lets you create customized daily or weekly meal plans effortlessly. Enjoy a balanced and nutritious diet without the hassle.",
-    //     align: "right",
-    //     image: "/features1.png"
-    // },
-    // {
-    //     id: uuid(),
-    //     title: "Garten und Landschaftsbau",
-    //     content:
-    //         "We've got your grocery shopping covered! NutriTrack includes a handy shopping list feature. As you plan your meals, the template automatically generates a comprehensive shopping list. No more forgotten items or aimless wandering in the supermarket. Shopping for healthy ingredients has never been easier!",
-    //     align: "left",
-    //     image: "/features2.png"
-    // },
-    // {
-    //     id: uuid(),
-    //     title: "Haushaltmontage",
-    //     content:
-    //         "Say goodbye to meal planning stress! With NutriTrack, planning your meals becomes a breeze. Our user-friendly Notion template lets you create customized daily or weekly meal plans effortlessly. Enjoy a balanced and nutritious diet without the hassle.",
-    //     align: "right",
-    //     image: "/features1.png"
-    // },
-    // {
-    //     id: uuid(),
-    //     title: "Haushaltsauflösung",
-    //     content:
-    //         "We've got your grocery shopping covered! NutriTrack includes a handy shopping list feature. As you plan your meals, the template automatically generates a comprehensive shopping list. No more forgotten items or aimless wandering in the supermarket. Shopping for healthy ingredients has never been easier!",
-    //     align: "left",
-    //     image: "/features2.png"
-    // }
+   
 ];
 
 export const ContentImage = () => {
