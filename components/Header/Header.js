@@ -15,7 +15,6 @@ export const Header = () => {
                 <div className="header-logo--container">
                     <h1 className="logo mb-0">
                         <Link href="/" className="justify-center flex">
-                            
                             <Image
                                 src="/logo3.png"
                                 alt="logo"
@@ -32,9 +31,10 @@ export const Header = () => {
                                 width="100"
                                 priority
                             />
-                        </Link>
+                        </Link>                      
                     </h1>
                 </div>
+                
                 <SectionContainer className="flex items-center ml-auto">
                     <Nav />
                     {/* <ButtonGroup className="hidden md:block">

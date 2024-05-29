@@ -10,6 +10,7 @@ import Image from "next/image";
 export const HomeBanner = () => {
     return (
         <SectionContainer className="page-banner--container py-16">
+            
             <SectionContainer className="page-banner--inner-container wrap wrap-px z-10">
                 {/* Appear First */}
                 <MotionBTTContainer transition={{ delay: 0.2, duration: 0.5 }}>
