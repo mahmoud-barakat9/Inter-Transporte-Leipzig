@@ -63,14 +63,14 @@ export default function Home() {
             />
             <div className="main-wrapper bg-[#F3F5F8] relative z-10 pb-20 pt-20 ">
                 <div className="flex content-center items-center justify-center">
-                <div className="bg-black-50 w-auto rounded-full pl-5 pr-5 pb-1 pt-1">
-                    <p class="block w-auto font-medium transition-colors duration-300 hover:underline text-center  text-blue-950">
-                        Telefone: (0) 172-806-3133
-                    </p>
-                    <p class="mb-3 block w-auto font-medium transition-colors duration-300 hover:underline text-center  text-blue-950">
-                        Email: Transportealjalal@gmail.com
-                    </p>
-                </div>
+                    <div className="bg-black-50 w-auto rounded-full pl-5 pr-5 pb-1 pt-1 drop-shadow-lg">
+                        <p class="block w-auto font-medium transition-colors duration-300 hover:underline text-center  text-blue-950">
+                            Telefone: (0) 172-806-3133
+                        </p>
+                        <p class="mb-3 block w-auto font-medium transition-colors duration-300 hover:underline text-center  text-blue-950">
+                            Email: Transportealjalal@gmail.com
+                        </p>
+                    </div>
                 </div>
                 {/* { Page Banner } */}
                 <HomeBanner />
