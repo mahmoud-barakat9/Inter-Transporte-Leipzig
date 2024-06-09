@@ -60,6 +60,7 @@ export default function Home() {
             <SEO
                 title="Inter Transporte Leipzig"
                 description="Discover NutriTrack, the effortless way to plan your meals with the power of Notion. Streamline your nutrition journey and achieve your health goals with ease."
+                keywords="Umzugservice ,Garten und Landschaftsbau ,Haushaltmontage ,Haushaltsauflösung"
             />
             <div className="main-wrapper bg-[#F3F5F8] relative z-10 pb-20 pt-20 ">
                 <div className="flex content-center items-center justify-center">
