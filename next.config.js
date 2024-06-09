@@ -19,10 +19,10 @@ const nextConfig = {
     env: {
         siteTitle: "Inter Transporte Leipzig",
         siteDescription:
-            "Umzugservice - Garten und Landschaftsbau - Haushaltmontage - Haushaltsauflösung ",
+            "Discover NutriTrack, the effortless way to plan your meals with the power of Notion. Streamline your nutrition journey and achieve your health goals with ease.",
         siteKeywords:
             "Umzugservice - Garten und Landschaftsbau - Haushaltmontage - Haushaltsauflösung ",
-        siteUrl: "You site url",
+        siteUrl: "https://inter-transporte-leipzig.vercel.app/",
         siteImagePreviewUrl: "/images/preview.jpeg",
         twitterHandle: "@your_handle"
     },
