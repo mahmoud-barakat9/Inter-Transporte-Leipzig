@@ -23,6 +23,8 @@ const nextConfig = {
         siteKeywords:
             "Umzugservice - Garten und Landschaftsbau - Haushaltmontage - Haushaltsauflösung ",
         siteUrl: "https://inter-transporte-leipzig.vercel.app/",
+        Sitemap: "https://inter-transporte-leipzig.vercel.app/sitemap.xml",
+
         siteImagePreviewUrl: "/images/preview.jpeg",
         twitterHandle: "@your_handle"
     },
