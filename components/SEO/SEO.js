@@ -14,6 +14,10 @@ const SEO = ({ title, description, keywords }) => {
     return (
         <Head>
             <meta charSet="utf-8" />
+            <meta
+                name="google-site-verification"
+                content="r-Yv5CAz1A4ihRYZzjO8HIwwRuUsrRJMAFoYjHJcxLo"
+            />
             <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
             <meta
                 name="viewport"
@@ -49,19 +53,8 @@ const SEO = ({ title, description, keywords }) => {
                 sizes="180x180"
                 href="/apple-touch-icon.png"
             />
-            <link
-                rel="icon"
-                type="image/png"
-                sizes="32x32"
-               
-                href="/logo5.png"
-            />
-            <link
-                rel="icon"
-                type="image/png"
-                sizes="16x16"
-                href="/logo5.png"
-            />
+            <link rel="icon" type="image/png" sizes="32x32" href="/logo5.png" />
+            <link rel="icon" type="image/png" sizes="16x16" href="/logo5.png" />
             <link rel="manifest" href="/site.webmanifest" />
             <link
                 rel="mask-icon"
