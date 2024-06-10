@@ -3,7 +3,6 @@
 const { createSecureHeaders } = require("next-secure-headers");
 const path = require("path");
 const fs = require("fs");
-const { siteUrl } = require('next-sitemap.config');
 
 const nextConfig = {
     reactStrictMode: true,
@@ -23,8 +22,8 @@ const nextConfig = {
             "Discover NutriTrack, the effortless way to plan your meals with the power of Notion. Streamline your nutrition journey and achieve your health goals with ease.",
         siteKeywords:
             "Umzugservice - Garten und Landschaftsbau - Haushaltmontage - Haushaltsauflösung ",
-        //siteUrl: "https://inter-transporte-leipzig.vercel.app/",
-        siteUrl: "https://inter-transporte-leipzig.vercel.app/sitemap.xml",
+        siteUrl: "https://inter-transporte-leipzig.vercel.app/",
+        Sitemap: "https://inter-transporte-leipzig.vercel.app/sitemap.xml",
 
         siteImagePreviewUrl: "/images/preview.jpeg",
         twitterHandle: "@your_handle"
